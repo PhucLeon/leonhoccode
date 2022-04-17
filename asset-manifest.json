@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/leonhoccode/static/css/main.df1e59f5.css",
+    "main.js": "/leonhoccode/static/js/main.bd4e380d.js",
+    "static/js/787.9bcb31fa.chunk.js": "/leonhoccode/static/js/787.9bcb31fa.chunk.js",
+    "static/media/img_services.jpg": "/leonhoccode/static/media/img_services.a249b4c059abf391c6c4.jpg",
+    "static/media/img_shop.jpg": "/leonhoccode/static/media/img_shop.2c96f85ea87f3c31c148.jpg",
+    "index.html": "/leonhoccode/index.html",
+    "main.df1e59f5.css.map": "/leonhoccode/static/css/main.df1e59f5.css.map",
+    "main.bd4e380d.js.map": "/leonhoccode/static/js/main.bd4e380d.js.map",
+    "787.9bcb31fa.chunk.js.map": "/leonhoccode/static/js/787.9bcb31fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df1e59f5.css",
+    "static/js/main.bd4e380d.js"
+  ]
+}
