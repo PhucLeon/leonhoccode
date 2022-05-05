@@ -12,9 +12,23 @@ function Footer() {
                     Cảm ơn bạn đã xem đến phần cuối của web
                 </p>
                 <p className='footer-subscription-text'>
-                    Bạn cứ thoải mái quay lại nha ^^!
+                    なつ - うみ - そら - くも - かぜ
+                    <br />
+                    Hẹn gặp lại bạn!
                 </p>
-                <div className='input-areas'>
+                
+                <div className='footer-donation'>
+                    <p className='footer-donation-header'>Ủng hộ leonhoccode. Mua tặng mình một ly trà.</p>
+
+                    <p className='footer-donation-paragraph'>Ngân hàng: Sacombank (Chi nhánh Sóc Trăng)</p>
+ 
+                    <p className='footer-donation-paragraph'>Số tài khoản: 0701 1460 4321</p>
+                     
+                    <p className='footer-donation-paragraph'>Chủ tài khoản: Nguyen Trong Phuc</p>
+
+                </div>
+                
+                {/* <div className='input-areas'>
                     <form>
                         <input
                             className='footer-input'
@@ -24,7 +38,7 @@ function Footer() {
                         />
                         <Button buttonStyle='btn--outline'>Gửi lời cảm ơn</Button>
                     </form>
-                </div>
+                </div> */}
             </section>
             {/* <div className='footer-links'>
                 <div className='footer-link-wrapper'>

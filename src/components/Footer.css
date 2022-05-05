@@ -93,6 +93,15 @@
     color: #b1b1b1;
   }
   
+
+  .footer-donation-paragraph {
+    margin: 8px 0;
+  }
+
+  .footer-donation-header {
+    font-size: 20px;
+  }
+
   /* Social Icons */
   .social-icon-link {
     color: #fff;
